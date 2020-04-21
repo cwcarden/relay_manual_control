@@ -5,14 +5,14 @@ import time
 app = Flask(__name__)
 
 start_time = {
-        "mv": "OFF",
-        "z1": "OFF",
-        "z2": "OFF",
-        "z3": "OFF",
-        "z4": "OFF",
-        "z5": "OFF",
-        "z6": "OFF",
-        "z7": "OFF",
+        "mv": " - Initializing",
+        "z1": " - Initializing",
+        "z2": " - Initializing",
+        "z3": " - Initializing",
+        "z4": " - Initializing",
+        "z5": " - Initializing",
+        "z6": " - Initializing",
+        "z7": " - Initializing",
         }
 
 status = {
